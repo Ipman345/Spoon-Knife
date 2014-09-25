@@ -8,5 +8,6 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 I like programing and Madison.
-Where do i edit this file?
-How do i edit this file?
+I Love Bacon!!!
+I love Kevin Bacon!
+>>>>>>> 95d899010f09157b5fec1a9faafa5a00b6e4f412
